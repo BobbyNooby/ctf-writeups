@@ -8,4 +8,4 @@ Map of Content for my picoCTF writeups. Each writeup is stored in its own subfol
 
 ---
 
-🔗 Related: [[TryHackMe|THM Writeups]]
+🔗 Related: [[Defensive Security Intro]], [[Offensive Security Intro]]
