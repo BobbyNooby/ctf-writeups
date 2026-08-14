@@ -7,4 +7,4 @@ This lives inside my Obsidian vault, so writeups use Obsidian-style links betwee
 ## Competitions
 
 ### CyLab-PicoCTF
-- [Old Sessions](CyLab-PicoCTF/Old_Sessions.md) — Web Exploitation, Easy (picoCTF 2026)
+- [Old Sessions](CyLab-PicoCTF/Old%20Sessions/Old_Sessions.md) — Web Exploitation, Easy (picoCTF 2026)
