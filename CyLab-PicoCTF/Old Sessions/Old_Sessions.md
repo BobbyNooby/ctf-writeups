@@ -34,7 +34,7 @@ Starting gives you a URL to test: <http://dolphin-cove.picoctf.net/>
 ```
 
 - Went in and saw the session cookies. There's one cookie that relates to the admin.
-- Went back to the logged-in page, went into developer tools, and replaced the session cookie value with the admin one.
+- Went back to the logged-in page, went into developer tools, and replaced the session cookie value with the admin one — that puts me in as the admin account, which is where the flag lives.
 
 ![Old_Sessions-admin_session](Old_Sessions-admin_session.png)
 

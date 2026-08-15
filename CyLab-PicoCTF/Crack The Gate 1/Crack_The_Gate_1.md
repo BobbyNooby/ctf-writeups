@@ -50,7 +50,7 @@ This is the only thing on the page.
     </script>
 ```
 
-3. I thought "what if I just edit it so `data.success` returns true and see what happens?" I tried editing elements and replacing `data.success` with `true`. Didn't work, and I think I was overthinking.
+3. I thought "what if I just edit it so `data.success` returns true and see what happens?" I tried editing elements and replacing `data.success` with `true`. Didn't work. Looking back it makes sense — `data.success` is whatever the server actually responds with, so faking it in the browser can't make the server hand over the flag.
 4. Then I saw a comment in the HTML:
 
 ```html
