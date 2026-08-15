@@ -23,7 +23,7 @@ Cookie Monster has hidden his top-secret cookie recipe somewhere on his website.
 cGljb0NURntjMDBrMWVfbTBuc3Rlcl9sMHZlc19jMDBraWVzX0E2RkEwN0Q4fQ%3D%3D
 ```
 
-That's the cookie. The `%3D%3D` at the end caught my eye — that's `==` URL-encoded, and `=` is base64 padding, so I suspected this was base64 hiding in a cookie.
+That's the cookie. The `%3D%3D` at the end caught my eye — that's a URL-encoded pair of equals signs, and equals-sign padding is how base64 strings end, so I suspected this was base64 hiding in a cookie.
 3. Then I noticed something odd: any username and any password logs in.
 
 ![Cookie_Monster_Secret_Recipe-logged_in](Cookie_Monster_Secret_Recipe-logged_in.png)
