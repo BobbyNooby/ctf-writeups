@@ -12,3 +12,4 @@ This lives inside my Obsidian vault, so writeups use Obsidian-style links betwee
 - [SSTI1](CyLab-PicoCTF/SSTI1/SSTI1.md) — Web Exploitation, Easy (picoCTF 2025)
 - [n0s4n1ty 1](CyLab-PicoCTF/n0s4n1ty%201/n0s4n1ty%201.md) — Web Exploitation, Easy (picoCTF 2025)
 - [Binary Digits](CyLab-PicoCTF/Binary%20Digits/Binary%20Digits.md) — Forensics, Easy (picoCTF 2026)
+- [Cookie Monster Secret Recipe](CyLab-PicoCTF/Cookie%20Monster%20Secret%20Recipe/Cookie%20Monster%20Secret%20Recipe.md) — Web Exploitation, Easy (picoCTF 2025)
