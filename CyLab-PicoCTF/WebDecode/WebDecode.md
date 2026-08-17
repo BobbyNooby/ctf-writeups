@@ -28,7 +28,7 @@ Do you know how to use the web inspector?
 
 ![WebDecode-about_page](WebDecode-about_page.png)
 
-7. A `notify=true` attribute on the element has this value:
+7. A `notify_true` attribute on the element has this value:
 
 ```
 cGljb0NURnt3ZWJfc3VjYzNzc2Z1bGx5X2QzYzBkZWRfMDJjZGNiNTl9
