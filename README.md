@@ -17,3 +17,4 @@ This lives inside my Obsidian vault, so writeups use Obsidian-style links betwee
 - [head-dump](CyLab-PicoCTF/head-dump/head-dump.md) — Web Exploitation, Easy (picoCTF 2025)
 - [WebDecode](CyLab-PicoCTF/WebDecode/WebDecode.md): Web Exploitation, Easy (picoCTF 2024)
 - [Unminify](CyLab-PicoCTF/Unminify/Unminify.md): Web Exploitation, Easy (picoCTF 2024)
+- [dont-use-client-side](CyLab-PicoCTF/dont-use-client-side/dont-use-client-side.md): Web Exploitation, Easy (picoCTF 2019)
