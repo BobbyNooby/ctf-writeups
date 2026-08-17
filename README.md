@@ -14,3 +14,4 @@ This lives inside my Obsidian vault, so writeups use Obsidian-style links betwee
 - [Binary Digits](CyLab-PicoCTF/Binary%20Digits/Binary%20Digits.md) — Forensics, Easy (picoCTF 2026)
 - [Cookie Monster Secret Recipe](CyLab-PicoCTF/Cookie%20Monster%20Secret%20Recipe/Cookie%20Monster%20Secret%20Recipe.md) — Web Exploitation, Easy (picoCTF 2025)
 - [Inspect HTML](CyLab-PicoCTF/Inspect%20HTML/Inspect%20HTML.md) — Web Exploitation, Easy (picoCTF 2022)
+- [head-dump](CyLab-PicoCTF/head-dump/head-dump.md) — Web Exploitation, Easy (picoCTF 2025)
