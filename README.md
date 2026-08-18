@@ -22,3 +22,4 @@ This lives inside my Obsidian vault, so writeups use Obsidian-style links betwee
 - [Local Authority](CyLab-PicoCTF/Local%20Authority/Local%20Authority.md): Web Exploitation, Easy (picoCTF 2022)
 - [Bookmarklet](CyLab-PicoCTF/Bookmarklet/Bookmarklet.md): Web Exploitation, Easy (picoCTF 2024)
 - [Includes](CyLab-PicoCTF/Includes/Includes.md): Web Exploitation, Easy (picoCTF 2022)
+- [Where Are the Robots](CyLab-PicoCTF/where%20are%20the%20robots/where%20are%20the%20robots.md): Web Exploitation, Easy (picoCTF 2019)
