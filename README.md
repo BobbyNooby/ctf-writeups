@@ -19,3 +19,4 @@ This lives inside my Obsidian vault, so writeups use Obsidian-style links betwee
 - [Unminify](CyLab-PicoCTF/Unminify/Unminify.md): Web Exploitation, Easy (picoCTF 2024)
 - [dont-use-client-side](CyLab-PicoCTF/dont-use-client-side/dont-use-client-side.md): Web Exploitation, Easy (picoCTF 2019)
 - [Cookies](CyLab-PicoCTF/Cookies/Cookies.md): Web Exploitation, Easy (picoCTF 2021)
+- [Local Authority](CyLab-PicoCTF/Local%20Authority/Local%20Authority.md): Web Exploitation, Easy (picoCTF 2022)
