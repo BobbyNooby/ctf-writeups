@@ -21,3 +21,4 @@ This lives inside my Obsidian vault, so writeups use Obsidian-style links betwee
 - [Cookies](CyLab-PicoCTF/Cookies/Cookies.md): Web Exploitation, Easy (picoCTF 2021)
 - [Local Authority](CyLab-PicoCTF/Local%20Authority/Local%20Authority.md): Web Exploitation, Easy (picoCTF 2022)
 - [Bookmarklet](CyLab-PicoCTF/Bookmarklet/Bookmarklet.md): Web Exploitation, Easy (picoCTF 2024)
+- [Includes](CyLab-PicoCTF/Includes/Includes.md): Web Exploitation, Easy (picoCTF 2022)
