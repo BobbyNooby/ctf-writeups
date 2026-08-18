@@ -91,7 +91,7 @@ Why search for the flag when I can make a bookmarklet to print it for me?
 </html>
 ```
 
-2. I personally have no idea what a bookmarklet is, so let me think. A bookmarklet is a bookmark that runs JavaScript instead of navigating to a URL. It starts with `javascript:` and, when clicked, executes its code in the context of whatever page you're on. That's why this one can decrypt and alert the flag right in the page.
+2. I personally have no idea what a bookmarklet is.
 3. The key part is the bookmarklet code sitting in that `<textarea>`:
 
 ```javascript
