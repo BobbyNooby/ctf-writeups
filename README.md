@@ -24,3 +24,4 @@ This lives inside my Obsidian vault, so writeups use Obsidian-style links betwee
 - [Includes](CyLab-PicoCTF/Includes/Includes.md): Web Exploitation, Easy (picoCTF 2022)
 - [Where Are the Robots](CyLab-PicoCTF/where%20are%20the%20robots/where%20are%20the%20robots.md): Web Exploitation, Easy (picoCTF 2019)
 - [GET aHEAD](CyLab-PicoCTF/GET%20aHEAD/GET%20aHEAD.md): Web Exploitation, Easy (picoCTF 2021)
+- [StegoRSA](CyLab-PicoCTF/StegoRSA/StegoRSA.md): Cryptography, Easy (picoCTF 2026)
